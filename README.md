@@ -55,8 +55,7 @@ PS C:\Users\email\documents\bootcamp\logo-making-machine> node index.js
 
 <a name="lic"></a>
 
-This project is licensed under the [MIT License](LICENSE.md).
-
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
