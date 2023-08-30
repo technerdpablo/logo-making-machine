@@ -6,15 +6,12 @@
 
 ## [Table of Contents]
 
- - [Description](#logo)
- - [Badges](#badge)
- - [Installation Instructions](#install)
- - [Usage](#use)
- - [Features](#feat)
- - [Contributing Guidelines](#contribute)
- - [License](#lic)
- - [Acknowledgments](#know)
-
+- [Description](#logo)
+- [Badges](#badge)
+- [Installation Instructions](#install)
+- [Usage](#use)
+- [License](#lic)
+- [Acknowledgments](#know)
 
 ## Badges
 
@@ -27,119 +24,39 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
- <a name="badge"></a>
 
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<a name="badge"></a>
 
-##  Installation Instructions
+## Installation Instructions
+
+### To install you first want to run "npm install" in your root directory. That will install all of the required packages needed.
+
 <a name="install"></a>
 
-
 ## usage
+
+### In order to run the logo making machine your going to want to run "node index.js". Then you will be prompted to answer questions that will ultimatley create your logo.
+
+PS C:\Users\email\documents\bootcamp\logo-making-machine> node index.js
+? What shape would you like to choose? (Use arrow keys)
+
+> square
+> circle
+> triangle
+
+### Once you answer all of the questions you will go to shapes.js and from there you will be able to view the logo that you have created.
+
 <a name="use"></a>
 
+## License
 
-
-## Features
-<a name="feat"></a>
-
-
-
-## Contrbuting Guidelines
-<a name="contribute"></a>
-
-
-
-## License 
 ### MIT
 
 <a name="lic"></a>
 
-
-
 ## Acknowledgments
+
+### Would like to acknowledge Eric Sayer for his help as a tutor.
+
 <a name="know"></a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
