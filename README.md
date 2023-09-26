@@ -62,3 +62,6 @@ This project is licensed under the [MIT License](LICENSE).
 ### Would like to acknowledge Eric Sayer for his help as a tutor.
 
 <a name="know"></a>
+
+
+[video walk through](https://drive.google.com/file/d/13n3p7WqWcSORWtbiZSowfVyd-abjiYND/view)
